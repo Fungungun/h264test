@@ -1,0 +1,10 @@
+
+ffmpeg/
+
+\.vscode/
+
+*.yuv
+
+*.mkv
+
+libswscale\.so\.3
